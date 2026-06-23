@@ -39,7 +39,7 @@ python track.py
 
 ### Person Detection
 
-![Person Detection](screenshots/person_detection.jpg)
+![Person Detection](screenshots/person_detection.jpeg)
 
 ### Bottle Detection
 
